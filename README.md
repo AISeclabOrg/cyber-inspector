@@ -15,6 +15,9 @@
 # :shield: Ekip Üyeleri
 ---
 
+**Danışman**: [Hira Beril KÜÇÜK](https://www.linkedin.com/in/hiraberilkucuk/)
+<br/>
+
 1. [Alper KARACA](https://github.com/thealper2)
 2. [Oudoum Ali HOUMED](https://github.com/OudoumAlihoumed)
 3. [Zeynep GÜNEY](https://github.com/zeynepguney)
