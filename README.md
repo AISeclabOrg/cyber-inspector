@@ -15,7 +15,7 @@
 # :shield: Ekip Üyeleri
 ---
 
-**Danışman**: [Hira Beril KÜÇÜK](https://www.linkedin.com/in/hiraberilkucuk/)
+**Danışman**: [Hira Beril KÜÇÜK](https://github.com/hiraberil)
 <br/>
 
 1. [Alper KARACA](https://github.com/thealper2)
